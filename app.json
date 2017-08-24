@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/credit/credit"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "Credit Query",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": false
+  }
+}
